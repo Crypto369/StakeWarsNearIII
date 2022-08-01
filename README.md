@@ -1,11 +1,11 @@
-Welcome to Stake Wars: Episode III A New Validator
+Ласкаво просимо до Stake Wars: Episode III A New Validator
 
-Stake Wars is a program that helps the community become familiar with what it means to be a NEAR validator, and gives the community an early chance to access the chunk-only producer.
+Stake Wars — це програма, яка допомагає спільноті ознайомитись із тим, що означає бути валідатором NEAR, і дає спільноті ранній шанс отримати доступ до виробника лише фрагментів.
 
-Stake Wars offers rewards that support new members who want to join mainnet as a validator starting from the end of September 2022.
+Stake Wars пропонує винагороди, які підтримують нових учасників, які хочуть приєднатися до основної мережі як валідатор, починаючи з кінця вересня 2022 року.
 
-Hope the force will be with you !
+Сподіваюся, сила буде з вами!
 https://github.com/near/stakewars-iii/blob/main/challenges/001.md
 
 
-For Support and important announcements: https://discord.gg/7TercRzRgA
+Для підтримки та важливих повідомлень: https://discord.gg/7TercRzRgA
