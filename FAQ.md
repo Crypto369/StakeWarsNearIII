@@ -1,55 +1,55 @@
-### Stake Wars: Episode III FAQ
+### Stake Wars: Епізод III ЗаПит
 
-#### 1. What is Stake Wars: Episode III?
-Stake Wars is a program that helps the community become familiar with what it means to be a NEAR validator, and gives them an early chance to access the chunk-only producer. The rewards offered by the Stake Wars program supports new members that want to join mainnet as a validator starting from the end of September 2022.
+#### 1. Що таке Stake Wars: Episode III?
+Stake Wars — це програма, яка допомагає спільноті ознайомитись із тим, що означає бути валідатором NEAR, і дає їм ранній шанс отримати доступ до виробника лише фрагментів. Винагороди, які пропонує програма Stake Wars, підтримують нових учасників, які хочуть приєднатися до основної мережі як валідатор, починаючи з кінця вересня 2022 року.
 
-#### 2. Where do I start?
-* Visit [https://near.org/stakewars/](https://near.org/stakewars/) to get the latest information about the program.
-* Fill-in the registration form, if you have not done so already (https://nearprotocol1001.typeform.com/to/Z39N7cU9)
-* Visit the github repo and read the FAQ and the Rules there (https://github.com/near/stakewars-iii)
-* Look into the challenges folder (https://github.com/near/stakewars-iii/tree/main/challenges) and start having fun.
+#### 2. З чого мені почати?
+* Відвідайте [https://near.org/stakewars/](https://near.org/stakewars/) щоб отримати останню інформацію про програму.
+* Заповніть реєстраційну форму, якщо ви ще цього не зробили (https://nearprotocol1001.typeform.com/to/Z39N7cU9)
+* Відвідайте репозиторій github і прочитайте там поширені запитання та правила (https://github.com/near/stakewars-iii)
+* Загляньте в папку завдань (https://github.com/near/stakewars-iii/tree/main/challenges) і почніть веселитися (реально сушити голову).
 
-#### 3. How do I become a Chunk-only producer?
-To make thinkg fun, we designed the first Stake Wars challenge in such a way to guide you through the basic steps of running a node. Check it out here: https://github.com/near/stakewars-iii/tree/main/challenges
+#### 3. Як мені стати продюсером ChunkОнлі?
+Щоб зробити роздуми цікавими, ми розробили перше завдання Stake Wars таким чином, щоб провести вас через основні кроки запуску вузла. Перевірте це тут:https://github.com/near/stakewars-iii/tree/main/challenges
 
-#### 4. Who organizes Stake Wars?
-Stake Wars is a community driven program, supported by Pagoda, Meta Pool, LiNEAR, Everstake, Open Shards Alliance and the NEAR Foundation.
+#### 4. Хто організовує Війни ставок?
+Stake Wars — це програма, керована спільнотою, яку підтримують Pagoda, Meta Pool, LiNEAR, Everstake, Open Shards Alliance і NEAR Foundation.
 
-#### 5. What’s in it for me?
-If you are an existing mainnet validator, Stake Wars offers you the opportunity to get early access to the chunk-only producer (more details [here](https://near.org/decentralize/)), understand how it works, and offer feedback around experience of using it.
+#### 5. Що це для мене?
+Якщо ви вже є валідатором основної мережі, Stake Wars пропонує вам можливість отримати ранній доступ до виробника лише фрагментів (докладніше [here](https://near.org/decentralize/)), зрозуміти, як це працює, і надати відгук про досвід його використання.
 
-If you don’t have a validator seat on mainnet today, and would like to get one, Stake Wars can support you to improve your skills and competences of running a NEAR node, and gives you access to rewards that will support the economics of your validator.
+Якщо у вас сьогодні немає місця валідатора в основній мережі, і ви хотіли б його отримати, Stake Wars може підтримати вас у вдосконаленні ваших навичок і компетенції з керування вузлом NEAR, а також надасть вам доступ до винагород, які сприятимуть економіці вашого валідатор.
 
-If you are new to the community, and would like to learn more about what it means to run a validator node, Stake Wars offers you a guided playground and support that will help you become more familiar with NEAR.
+Якщо ви новачок у спільноті та хотіли б дізнатися більше про те, що означає запустити вузол перевірки, Stake Wars пропонує вам ігровий майданчик і підтримку, яка допоможе вам ближче познайомитися з NEAR.
 
-#### 6. How does Stake Wars work?
-Stake Wars is made possible by a partnership between Pagoda, Meta Pool, LiNEAR, Everstake and Open Shards Alliance. Together we are driving the program and supporting the participants.
+#### 6. Як працює Stake Wars?
+Stake Wars стало можливим завдяки партнерству між Pagoda, Meta Pool, LiNEAR, Everstake і Open Shards Alliance. Разом ми керуємо програмою та підтримуємо учасників.
 
-Stake Wars gives participants challenges, mainly focused on technical deliverables, and offers them support as they progress throughout the technical work. Solving challenges gives participants rewards, shaped as NEAR tokens granted or delegated.
+Stake Wars ставить учасникам завдання, головним чином зосереджені на технічних результатах, і пропонує їм підтримку під час виконання технічної роботи. Вирішення викликів дає учасникам нагороди у формі наданих або делегованих токенів NEAR.
 
-#### 7. For how long does Stake Wars exist?
-Stake Wars launched on Wednesday July 13th and continues until Friday September 9th. You are welcome to join at any moment, but we encourage you to join as early as possible to take more advantage of the program.
+#### 7. Як довго існує Stake Wars?
+Stake Wars стартували в середу, 13 липня, і триватимуть до п’ятниці, 9 вересня. Ви можете приєднатися будь-коли, але ми рекомендуємо вам приєднатися якомога раніше, щоб отримати більше переваг від програми.
 
-Challenges will be announced throughout the entire period of the program, so stay tuned to address them quickly. Some challenges will have a limited timeframe when they can be solved.
+Завдання оголошуватимуться протягом усього періоду програми, тому слідкуйте за оновленнями, щоб швидко їх вирішити. Деякі виклики матимуть обмежений час, коли їх можна буде вирішити.
 
-#### 8. Until when can I join?
+#### 8. До якого часу я можу приєднатися?
 
-You can join Stake Wars at any moment before the end date of the program. However, we encourage you to join as early as you can, to have enough time for solving the challenges and unlocking the rewards, and to take advantage of the support you will receive.
+Ви можете приєднатися до Stake Wars у будь-який момент до дати завершення програми. Однак ми рекомендуємо вам приєднатися якомога раніше, щоб мати достатньо часу для вирішення завдань і розблокування винагород, а також скористатися підтримкою, яку ви отримаєте.
 
-Keep in mind that some challenges may need strict timelines and cannot be accessed after their due date. Also, we plan to move the playground from shardnet to testnet in early August 2022, and at that moment shardnet will no longer be in focus.
+Майте на увазі, що деякі виклики можуть вимагати суворих часових рамок і не можуть бути доступні після закінчення терміну виконання. Крім того, на початку серпня 2022 року ми плануємо перенести ігровий майданчик із шарднету в тестову мережу, і на той момент шарднет більше не буде в центрі уваги.
 
-#### 9. Who can join?
-We encourage anyone to join Stake Wars, solve the challenges, learn and be part of the program. However, there are a few restrictions related to reward eligibility: existing mainnet validators (as of July 13th 2022) are not eligible to receive rewards shared as delegated NEAR tokens. Members of Pagoda, Meta Pool, LiNEAR, Everstake and Open Shards Alliance are not eligible for any type of rewards.
+#### 9. Хто може приєднатися?
+Ми заохочуємо всіх приєднатися до Stake Wars, вирішувати виклики, навчатися та бути частиною програми. Проте є кілька обмежень, пов’язаних із правомочністю на винагороду: існуючі валідатори основної мережі (станом на 13 липня 2022 року) не мають права отримувати винагороди, які надаються як делеговані токени NEAR. Учасники Pagoda, Meta Pool, LiNEAR, Everstake і Open Shards Alliance не мають права на будь-які винагороди.
 
-#### 10. What are the rewards?
-Stake Wars is composed of technical challenges that you are encouraged to solve. Each challenge gives you access to rewards that can include:
+#### 10. Які нагороди?
+Stake Wars складається з технічних завдань, які вам пропонується вирішити. Кожне завдання дає вам доступ до нагород, які можуть включати:
 
-* NEAR Tokens delegated to your staking pool on mainnet after phase 1 of sharding launches on mainnet in late September 2022. The total amount of delegated tokens that each participant can receive is limited to 50,000 NEAR.
-* NEAR Tokens granted unlocked to your mainnet account. The total amount of granted tokens that each participant can receive is limited to 500 NEAR.
+* Токени NEAR, делеговані вашому пулу стекінгу в основній мережі після запуску фази 1 шардингу в основній мережі наприкінці вересня 2022 року. Загальна кількість делегованих токенів, яку може отримати кожен учасник, обмежена 50 000 NEAR.
+* Токени NEAR, надані розблокованими для вашого облікового запису основної мережі. Загальна кількість наданих токенів, які може отримати кожен учасник, обмежена 500 NEAR.
 
-Keep in mind that receiving the rewards may require identity verification.
+Майте на увазі, що для отримання винагород може знадобитися підтвердження особи.
 
-#### 11. Where will Stake Wars take place?
-Stake Wars is an online-only event, and participant support will be offered through Discord.
+#### 11. Де відбуватимуться Stake Wars?
+Stake Wars — це лише онлайн-подія, і учасникам буде запропоновано підтримку через Discord.
 
-The challenges proposed by the program will take place in the dedicated NEAR shardnet network and in the already existing NEAR testnet network. The tokens used during for operating nodes during Stake Wars are test tokens, unrelated to the mainnet NEAR tokens.
+Завдання, запропоновані програмою, відбуватимуться у виділеній мережі NEAR shardnet і в уже існуючій мережі NEAR testnet. Токени, які використовуються для роботи вузлів під час Stake Wars, є тестовими токенами, не пов’язаними з токенами NEAR основної мережі.
